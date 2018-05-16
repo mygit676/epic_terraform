@@ -1,0 +1,8 @@
+--- 
+hosts: localhost
+
+yum:
+  
+  httpd: present
+
+service:
